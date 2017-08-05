@@ -1,3 +1,6 @@
+#input: array.integer input_array
+#output: The largest product of adjacent elements
+
 input_array = [3, 6, -2, -5, 7, 3]
 
 def adjacent_elements_product(input_array)
